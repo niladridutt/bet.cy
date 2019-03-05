@@ -1,4 +1,4 @@
-Made with <3 by Niladri Shekhar Dutt, Souradeep Das, Sejal Mohata and Tanmay Agrawal 
+Made with :heart: by Niladri Shekhar Dutt, Souradeep Das, Sejal Mohata and Tanmay Agrawal 
 # Betcy 
 [Won the 2nd runnes up award at SF Hacks (Major League Hacking)]
 
